@@ -10,8 +10,8 @@ README.md
 - This file
 
 quiz1.R
-- R code for quiz 1
+- R code for quiz 1  
 quiz2.R
-- R code for quiz 2
+- R code for quiz 2  
 quiz3.R
 - R code for quiz 3
